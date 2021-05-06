@@ -1,0 +1,21 @@
+.minHeight {
+  min-height: calc(100vh - 6rem - 80px);
+}
+
+/* @media (min-width: 640px) {
+  .lottie {
+    width: 100%;
+  }
+}
+
+@media (min-width: 1024px) {
+  .lottie {
+    width: 80%;
+  }
+}
+
+@media (min-width: 1280) {
+  .lottie {
+    width: 80%;
+  }
+} */
